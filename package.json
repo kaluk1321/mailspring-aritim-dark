@@ -1,0 +1,13 @@
+{
+  "name": "aritim-dark",
+  "title": "Aritim-Dark",
+  "displayName": "Aritim-Dark",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Based on Aritim-Dark UI Theme for Linux",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
